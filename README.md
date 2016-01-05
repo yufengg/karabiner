@@ -3,6 +3,8 @@ My configs for karabiner to remap the arrow key cluster to the right hand PL;' c
 
 Official reference docs: https://pqrs.org/osx/karabiner/xml.html.en
 
+Open the private.xml file for Karabiner by going to Misc & Uninstall, and clicking "Open private.xml"
+
 See [here](https://www.keychatter.com/2014/08/04/how-to-remap-keys-in-osx-using-keyremap4macbook-now-karabiner/) for instructions about how to get access to the private.xml file. It lives in /Library/Application Support/Karabiner/private.xml for Karabiner version 10.11.0 on OSX. YMMV.
 
 More guidance on how to code the file is here: http://blog.iansinnott.com/using-keyremap4macbooks-private-xml/
